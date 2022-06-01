@@ -1,0 +1,22 @@
+title:
+    css: '#productTitle'
+    type: Text
+price_symbol:
+    css: '#a-price-symbol'
+    type: Text
+price_whole_number:
+    css: '#a-price-whole'
+    type: Text
+price_fraction:
+    css: '#a-price-fraction'
+    type: Text
+short_description:
+    css: '#a-list-item'
+    type: Text
+images:
+    css: '.imgTagWrapper img'
+    type: Attribute
+    attribute: data-a-dynamic-image
+product_description:
+    css: '#productDescription'
+    type: Text
